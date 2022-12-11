@@ -2,7 +2,7 @@
 
 ## Description 
 
-I have refactored the given HTML code to improve accessibility and readability, as below:
+I have refactored the given HTML code to improve accessibility, readability and search engine optimisation, as below:
 
 ### HTML Changes:
 * Added title
@@ -27,7 +27,7 @@ I have refactored the given HTML code to improve accessibility and readability, 
 
 __[Live Repository](https://github.com/jbkennaugh/html5-refactor)__
 
-__[Deployed Website](https://www.google.com)__
+__[Deployed Website](https://jbkennaugh.github.io/html5-refactor/)__
 
 ## Installation
 
