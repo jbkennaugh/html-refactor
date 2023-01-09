@@ -23,6 +23,8 @@ I have refactored the given HTML code to improve accessibility, readability and 
 * Reordered code so type-of-service was before benefit to match html
 * added comments to CSS
 
+![Deployed site](./images/deployed-site.png)
+
 ## Deployment
 
 __[Live Repository](https://github.com/jbkennaugh/html5-refactor)__
